@@ -11,7 +11,7 @@ Aplikasi kasir ritel modern dengan antarmuka responsif dan fitur lengkap untuk t
 - Sistem POS (Point of Sale) dengan grid transaksi dinamis
 - Pencarian produk instan via:
   - Keyboard input
-  - Pencarian fuzzy (nama sebagian)
+  - Pencarian Nama dan ID
 - Keranjang belanja dengan fitur:
   - Tambah/Ubah/Jumlah item
 
@@ -39,6 +39,9 @@ Aplikasi kasir ritel modern dengan antarmuka responsif dan fitur lengkap untuk t
 - MySQL ODBC
 - MySQL Connector .NET
 - MySQL XAMPP
+
+## Link Download
+- link : https://drive.google.com/file/d/1V5vMaLgRiy1jq_-ur3msVRkSfdiZPEBn/view?usp=sharing
 
 ## Tampilan UI
 

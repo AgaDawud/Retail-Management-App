@@ -42,4 +42,19 @@ Aplikasi kasir ritel modern dengan antarmuka responsif dan fitur lengkap untuk t
 
 ## Tampilan UI
 
-### Form Login
+- ### Form Login
+![login](https://github.com/AgaDawud/Retail-Management-App/blob/main/login.png)
+
+- ### Form Dashboard
+![Dash](https://github.com/AgaDawud/Retail-Management-App/blob/main/dash.png)
+
+- ### Form Data Pegawai
+![viewpegawai](https://github.com/AgaDawud/Retail-Management-App/blob/main/viewpegawai.png)
+![formpegawai](https://github.com/AgaDawud/Retail-Management-App/blob/main/formpegawai.png)
+
+- ### Form Data Produk
+![viewproduk](https://github.com/AgaDawud/Retail-Management-App/blob/main/viewproduk.png)
+![formpegawai](https://github.com/AgaDawud/Retail-Management-App/blob/main/formproduk.png)
+
+- ### Form Kasir
+![formkasir](https://github.com/AgaDawud/Retail-Management-App/blob/main/formkasir.png)

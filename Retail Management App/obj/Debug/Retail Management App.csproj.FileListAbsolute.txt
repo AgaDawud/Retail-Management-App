@@ -1,0 +1,41 @@
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\Retail Management App.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\Retail Management App.exe
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\Retail Management App.pdb
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail Management App.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail Management App.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail Management App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail Management App.csproj.CopyComplete
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail Management App.exe
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail Management App.pdb
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.Login.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.MainApp.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.Dashboard.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.Pegawai.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.Produk.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.Kasir.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.ViewProduk.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.Laporan_Transaksi.resources
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\stdole.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\FlashControlV71.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ASUS\Documents\Visual Studio 2019\Projects\Retail Management App\Retail Management App\obj\Debug\Retail_Management_App.Print.resources

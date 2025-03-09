@@ -50,10 +50,12 @@ Aplikasi kasir ritel modern dengan antarmuka responsif dan fitur lengkap untuk t
 
 - ### Form Data Pegawai
 ![viewpegawai](https://github.com/AgaDawud/Retail-Management-App/blob/main/viewpegawai.png)
+
 ![formpegawai](https://github.com/AgaDawud/Retail-Management-App/blob/main/formpegawai.png)
 
 - ### Form Data Produk
 ![viewproduk](https://github.com/AgaDawud/Retail-Management-App/blob/main/viewproduk.png)
+
 ![formpegawai](https://github.com/AgaDawud/Retail-Management-App/blob/main/formproduk.png)
 
 - ### Form Kasir

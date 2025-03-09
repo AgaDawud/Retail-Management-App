@@ -14,6 +14,9 @@ Aplikasi kasir ritel modern dengan antarmuka responsif dan fitur lengkap untuk t
   - Pencarian Nama dan ID
 - Keranjang belanja dengan fitur:
   - Tambah/Ubah/Jumlah item
+- Login dengan 2 akses:
+    - admin
+    - kasir
 
 ### 🛍 Manajemen Transaksi
 - Hold transaction (simpan sementara transaksi)
@@ -24,6 +27,14 @@ Aplikasi kasir ritel modern dengan antarmuka responsif dan fitur lengkap untuk t
   - Total belanja
   - Jumlah item
   - Kembalian
+
+### User Login
+- login sebagai admin :
+  - username : david_101
+  - password : d_101
+- login sebagai kasir :
+  - username : adi_102
+  - password : a_102
 
 ## Teknologi
 

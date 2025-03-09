@@ -2,6 +2,9 @@
 
 Aplikasi kasir ritel modern dengan antarmuka responsif dan fitur lengkap untuk transaksi cepat, dibangun menggunakan C# .NET Framework 4.7.2 dan Guna UI Controls.
 
+![.NET Version](https://img.shields.io/badge/.NET-6.0-purple)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ## Fitur Utama
 
 ### 💵 Operasi Kasir

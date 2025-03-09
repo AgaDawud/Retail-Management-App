@@ -45,9 +45,11 @@ Aplikasi kasir ritel modern dengan antarmuka responsif dan fitur lengkap untuk t
   - Guna2TextBox
   - Guna2GradientButton
   - Guna2MessageDialog
-
+- **Cetak Laporan**
+  - Crystal Reports
+ 
 ### ⚙ Backend
-- MySQL ODBC
+- MySQL ODBC 8.0 x86
 - MySQL Connector .NET
 - MySQL XAMPP
 
